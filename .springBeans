@@ -7,7 +7,7 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>src/main/webapp/WEB-INF/sevlet-Dispatcher.xml</config>
+		<config>java:com.sport.api.SpringBootHibernateApplication</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
